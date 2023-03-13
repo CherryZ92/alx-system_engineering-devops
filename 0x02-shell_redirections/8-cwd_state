@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "lists content in long format and even hidden files " >ls_cwd_content
